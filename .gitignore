@@ -9,3 +9,8 @@ build/
 *.xmf
 *.err
 *.in.json
+Screenshot*
+*.py
+*.json
+*.csv
+*.sh
